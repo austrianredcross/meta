@@ -34,7 +34,17 @@ For that reason we’re committing ourselves to these core values:
   user surveillance.
 * **Decentralized Approach:** as an independent rescue organization we believe in a
   decentralized approach.  We extend this also to how we design the exposure
-  notification flows in the application.
+  notification flows in the application.  Privacy by architecture is the only
+  approach that provides for a maximum level of protection for the rights and
+  freedoms of users. The decentralised architecture will fully reach its purpose 
+  once the technology (see above DP-3T/Apple/Google) allows for digital
+  handshake without any necessity for server communication.
+* **Interoperability**: Interoperability with other similar systems across all
+  nations is a crucial requirement for the purpose of effective and anonymous
+  COVID-19 contact tracing. If this digital method shall really provide an effective
+  contribution for fighting this international pandemia it has to aim for a
+  maximum number of people to join in order to gain a critical mass within a
+  society that could make a difference.
 * **Voluntariness:** we believe that users should only use contact tracing apps
   out of their free will. We will not stand for a mandatory deployment of
   contact tracing apps.
@@ -43,7 +53,13 @@ For that reason we’re committing ourselves to these core values:
   other organizations that share our ideals.  If you want to join the effort
   see [Cooperation and Funding](COOPERATION.md) for more information.
 * **Global Scalability:** the system must scale favorably for outbreaks or
-  countries larger than just one.
+  countries larger than just one.  The app shall be a role model for privacy
+  by design under EU data protection legislation (GDPR). Already now, but
+  especially once the final steps for decentralisation as aforementioned are
+  done, the Austrian Red Cross’ “Stopp Corona-App” shall be a “Lighthouse”
+  for all digital COVID-19 contact tracing projects. The vision is an
+  international network of interoperable systems which deserve all users trust
+  by following the same strict privacy by design approach and share this values.
 
 ## Transparency
 
